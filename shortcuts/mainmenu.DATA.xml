@@ -47,5 +47,13 @@
         <icon />
         <action>ActivateWindow(settings)</action>
     </shortcut>
+	
+	<shortcut>
+        <defaultID>power</defaultID>
+        <label>$LOCALIZE[33060]</label>
+        <label2 />
+        <icon /> 
+        <action>ActivateWindow(ShutdownMenu)</action>
+    </shortcut>
 
 </shortcuts>

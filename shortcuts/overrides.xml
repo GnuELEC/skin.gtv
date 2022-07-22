@@ -193,6 +193,8 @@
                 <shortcut widget="NewMovies" label="$LOCALIZE[31503]" icon="DefaultRecentlyAddedMovies.png" widgetType="movies" widgetTarget="video" condition="Library.HasContent(movies)">special://skin/extras/playlists/recently_added_movies.xsp</shortcut>
                 <shortcut widget="StartWatchingMovies" label="$LOCALIZE[31504]" icon="DefaultRandomMovies.png" widgetType="movies" widgetTarget="video" condition="Library.HasContent(movies)">special://skin/extras/playlists/random_unwatched_movies.xsp</shortcut>
                 <shortcut widget="InProgressMovies" label="$LOCALIZE[31505]" icon="DefaultInProgressMovies.png" widgetType="movies" widgetTarget="video" condition="Library.HasContent(movies)">special://skin/extras/playlists/inprogress_movies.xsp</shortcut>
+				<shortcut widget="Top250Movies" label="$LOCALIZE[33505]" icon="DefaultInProgressMovies.png" widgetType="movies" widgetTarget="video" condition="Library.HasContent(movies)">special://skin/extras/playlists/top250.xsp</shortcut>
+				<shortcut widget="4KMovies" label="$LOCALIZE[33506]" icon="DefaultInProgressMovies.png" widgetType="movies" widgetTarget="video" condition="Library.HasContent(movies)">special://skin/extras/playlists/4kmovies.xsp</shortcut>
             </node>
             <!-- TV Shows -->
             <node label="$LOCALIZE[31415]" icon="DefaultTVShows.png">

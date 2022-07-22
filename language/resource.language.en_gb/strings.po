@@ -239,3 +239,15 @@ msgstr ""
 msgctxt "#32007"
 msgid "List"
 msgstr ""
+
+msgctxt "#33060"
+msgid "Power"
+msgstr ""
+
+msgctxt "#33505"
+msgid "Top 250 movies"
+msgstr ""
+
+msgctxt "#33506"
+msgid "4K movies"
+msgstr ""

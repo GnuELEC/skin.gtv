@@ -32,7 +32,8 @@
                 <width>200</width>
                 <alignx>center</alignx>
                 <font>WidgetTitle</font>
-                <label>$INFO[VideoPlayer.Time(MM:SS)]</label>
+                <!-- <label>$INFO[VideoPlayer.Time(MM:SS)]</label> -->
+				<label>$INFO[Player.SeekNumeric(hh:mm:ss)]</label>
             </control>
     </controls>
 </window>
